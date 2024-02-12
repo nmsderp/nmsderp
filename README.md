@@ -7,6 +7,6 @@ i even made my own called Snail IDE, but i also work on Bark cuz why not lolol :
   
 ever since i got my first PC i have used windows as my main operating system, but i have a raspberry pi 4 and pico w (i still do like everything on windows tho, but i want to host a website on the pico w sometime)
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,svelte,robloxstudio,py,vscode,raspberrypi,nodejs,vercel,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,svelte,robloxstudio,py,vscode,raspberrypi,nodejs,vercel,github,lua)](https://skillicons.dev)
 [![nmsderp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nmsderp)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nmsderp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

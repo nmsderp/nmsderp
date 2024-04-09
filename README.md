@@ -1,3 +1,4 @@
+### did you guys actually think i was @knightofchocolate its my friend for crying out loud 💀💀💀💀
 ### Hi there 👋
 im a random middle schooler who programs stuff in his room
   

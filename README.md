@@ -1,4 +1,4 @@
-### did you guys actually think i was @knightofchocolate its my friend for crying out loud 💀💀💀💀
+### working on slitheros  https://codeberg.org/SlitherOS
 ### Hi there 👋
 im a random middle schooler who programs stuff in his room
   

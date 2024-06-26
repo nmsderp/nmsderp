@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=nmsderp)
 ### working on slitheros  https://codeberg.org/SlitherOS
 ### Hi there 👋
 im a random middle schooler who programs stuff in his room

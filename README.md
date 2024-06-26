@@ -13,3 +13,4 @@ my little brother has a github account, but dosen't use it, it is [here](https:/
 [![nmsderp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nmsderp)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nmsderp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![nmsderp's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsderp)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nmsderp)](https://git.io/streak-stats)

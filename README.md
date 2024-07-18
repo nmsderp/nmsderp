@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=nmsderp)
-### most of my new projects will be on [codeberg](https//codeberg.org/nmsderp), but i still do a lot on here
+### most of my new projects will be on [codeberg](https://codeberg.org/nmsderp), but i still do a lot on here
 ### Hi there 👋
 im a random middle schooler who programs stuff in his room
   

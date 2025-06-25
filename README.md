@@ -16,7 +16,7 @@ my little brother has a github account, but dosen't use it, it is [here](https:/
 [![nmsderp's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsderp)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nmsderp)](https://git.io/streak-stats)
 
-**My Laptop** (it's my device PC right now / upgraded Lenovo LOQ):  
+**My Laptop** (it's my main PC right now / upgraded Lenovo LOQ):  
 CPU: Ryzen 5 7235HS  
 CPU Cores: 4  
 CPU Logical Processors: 8  
@@ -44,4 +44,6 @@ SSD2: Some Samsung 1TB SATA drive
 HDD: Some 1TB hard drive  
 GPU: GTX 970  
 GPU VRAM: 4GB  
-Motherboard: Some Gigabyte one  
+Motherboard: Some Gigabyte one 
+
+**if i were to build a new pc i would build this https://pcpartpicker.com/list/TWjmpK**
